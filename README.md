@@ -17,8 +17,7 @@ For Reference Only
 </pre>
 
 <a href="https://certificates.cs50.io/facb9406-2068-4c14-a1ac-6f22da61bf6c.png">
-  <img src="https://certificates.cs50.io/facb9406-2068-4c14-a1ac-6f22da61bf6c.png" alt="cs50p-certificates" />
-</a>
+[![Certificate](./static/CS50P-A4.png)](#?size=a4)
 
 ## Table of Contents
 ### [Week 0](/Week%200/)
