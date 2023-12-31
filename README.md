@@ -1,22 +1,11 @@
-<br>
-
 <p align="center">
-<img src="https://i.imgur.com/Jj740Yd.png" alt="logo" height="150"/>
+<img src="https://i.imgur.com/Jj740Yd.png" alt="logo" height="100"/>
 </p>
 
-<h1 align="center">
+<h2 align="center">
 Harvard CS50’s Introduction to Databases with SQL — CS50SQL 2023
-</h1>
+</h2>
 
-<p align="center">
-  <a href="https://cs50.harvard.edu/sql/2023">Course Link</a>
-</p>
-
-<pre align="center">
-For Reference Only
-</pre>
-
-<a href="https://certificates.cs50.io/facb9406-2068-4c14-a1ac-6f22da61bf6c.png">
 [![Certificate](./static/CS50P-A4.png)](#?size=a4)
 
 ## Table of Contents
